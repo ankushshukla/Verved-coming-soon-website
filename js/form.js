@@ -11,7 +11,7 @@
       } else {
         $.ajax({
           method: 'POST',
-          url: 'https://formspree.io/ankushshukla0001@gmail.com',
+          url: 'https://formspree.io/vervedofficial@gmail.com',
           data: $(this).serialize(),
           datatype: 'json'
         });
